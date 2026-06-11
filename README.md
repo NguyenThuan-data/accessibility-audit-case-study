@@ -1,6 +1,6 @@
 # Accessibility Compliance Automation — Case Study
 
-> Professional engagement with **Datacom** · Full implementation in this repo · This README documents **process, decisions, and learning** — not a marketing brochure.
+> Professional engagement with **Datacom**. The implementation is private because of client confidentiality. This case study covers the problem, my role, workflow, decisions, and outcomes — I can walk through architecture and redacted examples in an interview
 
 ---
 
