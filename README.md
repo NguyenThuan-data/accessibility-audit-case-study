@@ -6,8 +6,8 @@
 
 ## TL;DR
 
-- **Challenge:** Enterprise QA teams need WCAG compliance checks, but manual audits require specialist expertise and existing tools dump raw violations without actionable guidance or AI workflow integration.
-- **What I did:** Led a 4-person team to build an MCP-powered audit pipeline (Playwright + Axe-core) that runs ~30-second scans from natural-language commands in Cursor or Claude Desktop.
+- **Problem:** Enterprise QA teams need WCAG compliance checks, but manual audits require specialist expertise and existing tools dump raw violations without actionable guidance or AI workflow integration. It cost time, and resouces.
+- **What I did:** Led a 4-person team to build an MCP-powered audit pipeline (Playwright + Axe-core) that runs ~30-second scans from natural-language commands in Cursor or Claude Desktop (any MCP client).
 - **Outcome:** Zero-config developer adoption, three report formats (Markdown / HTML / JSON), WCAG 2.0–2.2 support — enabling Datacom QA to integrate accessibility into sprint workflows without deep a11y expertise.
 - **Level-up:** Moved from building features to stakeholder liaison, JS/TS code review, confirmation-first test design, and sprint-integrated quality delivery.
 
